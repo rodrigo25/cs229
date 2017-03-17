@@ -1,15 +1,14 @@
-Este repositório contém códigos desenvolvidos durante o estudo do curso CS229 Machine Learning de Stanford disponível online usando os MOOCs encontrados no Youtube e os arquivos de aula do site da disciplina.
+This repository contains codes developed by me while studying the Stanford graduate course CS229 Machine Learning available online using the MOOCs on the Youtube and materials from the course website.
 
-This repository contains codes developed studying the Stanford graduate course CS229 Machine Learning available online using the MOOCs on the Youtube and materials from the course website.
+---
 
---
 Course Homepage: http://cs229.stanford.edu/
 
 MOOCs playlist: https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
 
 author: Andrew Ng, Computer Science Department, Stanford University 
 
---
+---
 
 ### Studying Codes
 
